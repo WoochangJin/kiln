@@ -1,0 +1,25 @@
+type: Subject
+
+# body: what / why (not how). wrap at 72 chars.
+
+# footer: Resolves: #123 / Ref: #456 / Related to: #48
+
+# --------------------------------------------------
+# type
+#   feat      new feature
+#   fix       bug fix
+#   docs      documentation changes
+#   style     formatting, no logic changes
+#   refactor  code refactoring
+#   test      add or change tests
+#   chore     build / package manager / config
+#
+# subject
+#   - max 50 chars, no period or special characters
+#   - imperative base form (Fix, not Fixed), capitalize first letter
+#   - not a full sentence
+#
+# body
+#   - separate from subject with a blank line
+#   - max 72 chars per line
+# --------------------------------------------------
