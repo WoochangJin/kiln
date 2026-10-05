@@ -1,0 +1,14 @@
+[package]
+name = "kiln-rust"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "kiln"
+path = "src/lib.rs"
+
+[[bin]]
+name = "kilnc"
+path = "src/main.rs"
+
+[dependencies]
